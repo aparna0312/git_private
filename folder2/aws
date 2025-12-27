@@ -1,0 +1,14 @@
+ws means amazon 
+Your private network in AWS
+
+Components:
+
+Subnets
+
+Route tables
+
+Internet Gateway
+
+NAT Gateway
+
+Public vs Private subnet
